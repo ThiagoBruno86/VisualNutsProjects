@@ -17,7 +17,7 @@ public class MainProgram
 {
     public static void main(String[] args)
     {    
-        print("Primeiro Exercício \n");
+        print("First Exercise\n");
         
         PrintNumbers printNumbers = new PrintNumbers();
         
@@ -30,7 +30,7 @@ public class MainProgram
         printNumbers.execute(25, 500);
        
         
-        print("\nSegundo Exercício\n");
+        print("\nSecond Exercise\n");
 
         JSONParser jsonParser = new JSONParser();
 
